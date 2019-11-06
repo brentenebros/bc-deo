@@ -16,8 +16,10 @@ Create a Decentralized Exponential Organization (DEO) with the goal of coordinat
 
 ![Primary Functionality Diagram](/images/pfd_01.png)
 
-# Supplementary Features
+# (Potential) Supplementary Features
 - DEO Initialization Phase: A number of DEO tokens can be issued at a set price, regardless of number of DEO tokens in existence, in order to bootstrap community. These membership deposits are split into the same 'funding pool' and 'reserve pool'. Once a threshold of DEO tokens have been issued, the bonding curve becomes active for future prospective members. It is not possible to sell DEO tokens back to the bonding curve during the initialization phase.
+- Vesting Period: A lockup for a set period of time on newly minted DEO tokens, intended to prevent front running.
+- Voting Participation: A requirement to vote on a minimum number of proposals in a set period of time. If not achieved by a member, they are forced to exit the DEO in the same manner as would be achieved voluntarily.
 
 # Objectives
 - Create a circular economy that allows communities to form around shared interests and common goals.
